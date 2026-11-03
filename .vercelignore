@@ -1,0 +1,7 @@
+# Vercel only serves dist/. Keep the upload small.
+vendor
+node_modules
+storage
+tests
+bootstrap/cache
+.env
